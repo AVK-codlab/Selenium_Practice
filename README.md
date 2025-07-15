@@ -12,7 +12,7 @@ Welcome to the Selenium Learnig Guide. This repository contains my hands-on prac
 - ✅ **Maven**
 - ✅ **Jenkins**
 - ✅ **ExtentReports**
-_ ✅ **Apache POI**
+- ✅ **Apache POI**
 - ✅ **Git**
 
 ---
