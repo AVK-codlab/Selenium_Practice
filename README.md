@@ -56,3 +56,9 @@ Welcome to the Selenium Learnig Guide. This repository contains my hands-on prac
 - 📌 Organising External Test Data Files (Excel, JSON, etc.)  
 - 📌 Dynamic Data Control for Flexibility in Testing  
 
+
+## 🤝 Contributing
+
+This repository is primarily for personal learning, but contributions are welcome! 
+
+> 🚀 *Keep automating. Keep learning. Keep growing.*  
