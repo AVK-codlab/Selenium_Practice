@@ -12,6 +12,8 @@ Welcome to the Selenium Learnig Guide. This repository contains my hands-on prac
 - ✅ **Maven**
 - ✅ **Jenkins**
 - ✅ **ExtentReports**
+_ ✅ **Apache POI**
+- ✅ **Git**
 
 ---
 
@@ -51,11 +53,6 @@ Welcome to the Selenium Learnig Guide. This repository contains my hands-on prac
 - 📌 Initialising a Git Repository  
 - 📌 Managing Commits, Branches, and Pull Requests  
 - 📌 Pushing and Collaborating on GitHub  
-
-### 🚀 Test Data Management
-- 📌 Organising External Test Data Files (Excel, JSON, etc.)  
-- 📌 Dynamic Data Control for Flexibility in Testing  
-
 
 ## 🤝 Contributing
 
