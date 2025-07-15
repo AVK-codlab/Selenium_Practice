@@ -10,7 +10,7 @@ Welcome to the Selenium Learnig Guide. This repository contains my hands-on prac
 - ✅ **Selenium WebDriver**
 - ✅ **TestNG**
 - ✅ **Maven**
-- ✅ **Log4j**
+- ✅ **Jenkins**
 - ✅ **ExtentReports**
 
 ---
