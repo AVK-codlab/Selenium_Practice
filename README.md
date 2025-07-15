@@ -24,31 +24,30 @@ Welcome to the Selenium Learnig Guide. This repository contains my hands-on prac
 
 ## 📚 Topics Covered
 ###🚀 Selenium Fundamentals
--- 📌 Introduction to Selenium WebDriver
--- 📌 Setting up WebDriver with Java
--- 📌 Understanding Locators (ID, Name, XPath, CSS, etc.)
--- 📌 Interacting with Web Elements (Click, SendKeys, GetText)
--- 📌 Browser Commands (Back, Forward, Refresh)
+- 📌 Introduction to Selenium WebDriver
+- 📌 Setting up WebDriver with Java
+- 📌 Understanding Locators (ID, Name, XPath, CSS, etc.)
+- 📌 Interacting with Web Elements (Click, SendKeys, GetText)
+- 📌 Browser Commands (Back, Forward, Refresh)
 ###🚀 Selenium Advanced Concepts
--- 📌 Handling Dropdowns, Alerts, and Popups
--- 📌 Working with Frames, Windows, and Tabs
--- 📌 Mouse & Keyboard Actions using Actions Class
--- 📌 Screenshots for Reporting
--- 📌 Handling Dynamic Web Elements
--- 📌 Implicit vs Explicit vs Fluent Waits
+- 📌 Handling Dropdowns, Alerts, and Popups
+- 📌 Working with Frames, Windows, and Tabs
+- 📌 Mouse & Keyboard Actions using Actions Class
+- 📌 Screenshots for Reporting
+- 📌 Handling Dynamic Web Elements
+- 📌 Implicit vs Explicit vs Fluent Waits
 ###🚀 Maven Build Management
--- 📌 Setting up Maven Project Structure
--- 📌 Managing Dependencies (pom.xml)
--- 📌 Running Test Suites with Maven Commands
+- 📌 Setting up Maven Project Structure
+- 📌 Managing Dependencies (pom.xml)
+- 📌 Running Test Suites with Maven Commands
 ###🚀 Jenkins for Continuous Integration
--- 📌 Setting up Jenkins on Localhost
--- 📌 Creating Jobs to Trigger Selenium Tests
--- 📌 Publishing Allure Reports automatically after test runs
+- 📌 Setting up Jenkins on Localhost
+- 📌 Creating Jobs to Trigger Selenium Tests
+- 📌 Publishing Allure Reports automatically after test runs
 ###🚀 Version Control with Git & GitHub
--- 📌 Initialising a Git Repository
--- 📌 Managing Commits, Branches, and Pull Requests
--- 📌 Pushing and Collaborating on GitHub
+- 📌 Initialising a Git Repository
+- 📌 Managing Commits, Branches, and Pull Requests
+- 📌 Pushing and Collaborating on GitHub
 ###🚀 Test Data Management
--- 📌 Organising External Test Data Files
--- 📌 Dynamic Data Control for Flexibility in Testing
-
+- 📌 Organising External Test Data Files
+- 📌 Dynamic Data Control for Flexibility in Testing
