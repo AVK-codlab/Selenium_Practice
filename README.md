@@ -1,6 +1,6 @@
 # 🚀 Selenium WebDriver Practice with Java
 
-Welcome to the Selenium Learnig Guide. This repository contains my hands-on practice exercises and mini-projects using **Selenium WebDriver with Java**. It includes examples of web automation, framework implementation, and integrations commonly used in real-world QA automation projects.
+Welcome to the Selenium Learning Guide. This repository contains my hands-on practice exercises and mini-projects using **Selenium WebDriver with Java**. It includes examples of web automation, framework implementation, and integrations commonly used in real-world QA automation projects.
 
 ---
 
